@@ -19,6 +19,7 @@ Gender and year of study showed notable differences in reported stress levels.
 Created a correlation heatmap and interactive dashboard showing depression distribution across demographics.
 
 Tools & Libraries 
+
 Excel for data cleaning
 Python: pandas, numpy, matplotlib, seaborn
 
@@ -41,7 +42,8 @@ Seasonal variations indicated more breaks during winter months, suggesting tempe
 Created an interactive Power BI dashboard showing failure distribution across years and materials.
 
 Tools & Libraries
-Excel for preprocessing
+
+Excel for preprocessing 
 Python: pandas, matplotlib, seaborn
 Power BI for visualization and time-series trend analysis
 
